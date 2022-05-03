@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0491c7e3-d0bf-4929-8688-8f6af62134dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoscalling.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoscalling2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-affinity1.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node-affinity2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pod-defintion7.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgres-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result-app-deployment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret1.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statefulset1.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toleration1.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/worker-deployment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xUq8xElaUfy8pWTF6BPgIq42DP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0491c7e3-d0bf-4929-8688-8f6af62134dd" name="Default Changelist" comment="" />
+      <created>1630419858996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630419858996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="158" y="87" key="com.intellij.ide.util.TipDialog" timestamp="1631174452156">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="158" y="87" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1631174452156" />
+  </component>
+</project>
